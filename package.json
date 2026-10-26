@@ -1,0 +1,12 @@
+{
+  "name": "voting-bot",
+  "version": "1.0.0",
+  "description": "Unbranded Discord Voting Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
